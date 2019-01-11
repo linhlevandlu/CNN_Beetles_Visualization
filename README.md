@@ -3,7 +3,7 @@ This repository contains the source of a visualization program.
 It is used to test a trained model (convolutional neural network) on an image (in test set).
 
 # Notes:
-Because of limitting on Github. We have not uploaded the trained model.
+Because of the limitations of space on Github. We have not uploaded the trained model.
 Please contact with us to get trained model.
 Email address: linhlevandlu@gmail.com
 
