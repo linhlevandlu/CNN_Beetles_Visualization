@@ -1,6 +1,9 @@
-# CNN_Beetles_Visualization
-This repository contains the source of a visualization program.
-It is used to test a trained model (convolutional neural network) on an image (in test set).
+# CNN_Beetles_Visualization (CBV)
+
+This is a visualization program that visualizes the test process in deep learning method.
+The program receives a test image, a trained model and outputs the prediction of the test image.
+Specifically, CBV inputs a beetle's anatomical image and corresponding trained model, then it will predict the landmarks on this anatomical image.
+See more in [MorphoBoid](http://morphoboid.labri.fr/) page.
 
 # Notes:
 Because of the limitations of space on Github. We have not uploaded the trained model.
